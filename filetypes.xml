@@ -4,6 +4,7 @@
     <extensionMap>
       <mapping pattern="test 190927.py" type="PLAIN_TEXT" />
       <mapping pattern="test_python" type="Python" />
+      <mapping pattern="test_ptt" type="Python" />
       <mapping pattern="app.py" type="Python" />
       <mapping pattern="test" type="Python" />
     </extensionMap>
